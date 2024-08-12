@@ -1,0 +1,2 @@
+# VPN Tools to simplify starting ovpn-connections from terminal. 
+# place .ovpn files in '/etc/openvpn/client' to automatically list them when vpn_start is executed
