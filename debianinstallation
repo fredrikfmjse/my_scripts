@@ -1,0 +1,22 @@
+# 'Checklist' för Debian installation
+
+Partitoner 
+
+NVMe 512 GB
+1.	/boot/efi	500 MB 	FAT32
+2.	SWAP		25 GB	
+3. 	/		200 GB	btrfs
+
+NVMe 1 TB
+1. 	/home		1TB	btrfs
+
+NVMe	2 TB
+1.	/mnt/vm		2TB	ext4
+
+Installation och paket
+
+ExpanDrive
+Mailspring
+Librewolf
+Mullvad VPN
+BitWarden
